@@ -1,7 +1,7 @@
 """
 Lab 01: Development Toolkit Setup
-Author: Your Name
-Date: January 2025
+Author: Parker Robinson
+Date: January 18 2026
 
 This program demonstrates that your Python environment is correctly configured.
 """
